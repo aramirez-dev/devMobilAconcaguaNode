@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react": "18.0.0",
+    "react-native": "0.69.5",
+    "yet": "^0.1.0"
+  }
+}
